@@ -1,1 +1,48 @@
 
+h1 {
+	font-size: 50px;
+	font-family: Helvetica;
+	position: absolute;
+	right: 90px;
+
+}
+
+.megaImage {
+	width: 100%;
+	margin: 0;
+	text-align: left;
+	vertical-align: top;
+}
+
+body {
+	margin:0;
+}
+
+.images {
+	display: inline-block;
+	width: 190px;
+	margin: 5px;
+	text-align: center;
+	clear:both;
+	vertical-align: top;
+}
+
+.left {
+	text-align: left;
+	width: 300px;
+	margin: 5px
+}
+
+.right {
+	text-align: left;
+	width: 300px;
+	margin: 5px
+}
+
+div {
+	display: inline-block;
+	text-align: center;
+	margin:0 auto;
+	width: 100%;
+	font-family: Helvetica;
+}
