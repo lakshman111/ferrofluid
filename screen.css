@@ -25,6 +25,8 @@ body {
 	text-align: center;
 	clear:both;
 	vertical-align: top;
+	border: 1px solid lightgray;
+	padding: 3px
 }
 
 .left {
